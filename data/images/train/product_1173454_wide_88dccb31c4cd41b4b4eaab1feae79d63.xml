@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>product_1173454_wide_88dccb31c4cd41b4b4eaab1feae79d63.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\product_1173454_wide_88dccb31c4cd41b4b4eaab1feae79d63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>5</ymin>
+			<xmax>272</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

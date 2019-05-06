@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>casco-antinfortunistico-professionale-vertex-st-petzl.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\casco-antinfortunistico-professionale-vertex-st-petzl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>47</ymin>
+			<xmax>724</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

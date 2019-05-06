@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ANT0420_g.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\ANT0420_g.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>565</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>56</ymin>
+			<xmax>534</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

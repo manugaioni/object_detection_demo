@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Elmetto-da-cantiere-antiurto-ventilato-Giallo-extra-big-2948-099.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\Elmetto-da-cantiere-antiurto-ventilato-Giallo-extra-big-2948-099.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>67</ymin>
+			<xmax>619</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

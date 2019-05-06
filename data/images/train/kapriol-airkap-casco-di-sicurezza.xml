@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kapriol-airkap-casco-di-sicurezza.png</filename>
+	<path>C:\Users\Matteo\Desktop\images\kapriol-airkap-casco-di-sicurezza.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>452</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>67</ymin>
+			<xmax>439</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_666073_111953DELTAPLUS-ELMETTO-BIANCO-SENZA-VISIERA-GRANITE-WIND.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\img_666073_111953DELTAPLUS-ELMETTO-BIANCO-SENZA-VISIERA-GRANITE-WIND.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>3</ymin>
+			<xmax>739</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

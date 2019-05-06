@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>casco-di-sicurezza-3m-peltor-g2000.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\casco-di-sicurezza-3m-peltor-g2000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>53</ymin>
+			<xmax>341</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>casco-sicurezza-safetystar-newfol-art-NF211.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\casco-sicurezza-safetystar-newfol-art-NF211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>88</ymin>
+			<xmax>388</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

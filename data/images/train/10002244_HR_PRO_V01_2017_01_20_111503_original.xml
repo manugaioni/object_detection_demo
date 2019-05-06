@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>10002244_HR_PRO_V01_2017_01_20_111503_original.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\10002244_HR_PRO_V01_2017_01_20_111503_original.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>945</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>37</ymin>
+			<xmax>916</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

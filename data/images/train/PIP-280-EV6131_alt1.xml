@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>PIP-280-EV6131_alt1.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\PIP-280-EV6131_alt1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>53</ymin>
+			<xmax>385</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

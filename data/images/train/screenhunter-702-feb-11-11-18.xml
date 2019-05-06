@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>screenhunter-702-feb-11-11-18.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\screenhunter-702-feb-11-11-18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>15</ymin>
+			<xmax>238</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

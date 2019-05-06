@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_510530_122812SOCIM-CASCO-SICUREZZA-DRAGO-BIANCO.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\img_510530_122812SOCIM-CASCO-SICUREZZA-DRAGO-BIANCO.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>10</ymin>
+			<xmax>921</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

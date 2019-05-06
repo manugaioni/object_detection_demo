@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>antistress-personalizzati-a-forma-di-elmetto-mo8685-bianco-frontale.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\antistress-personalizzati-a-forma-di-elmetto-mo8685-bianco-frontale.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>172</ymin>
+			<xmax>750</xmax>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+</annotation>

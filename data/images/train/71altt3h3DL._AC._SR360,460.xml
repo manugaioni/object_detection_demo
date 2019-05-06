@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>71altt3h3DL._AC._SR360,460.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\71altt3h3DL._AC._SR360,460.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>43</ymin>
+			<xmax>360</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

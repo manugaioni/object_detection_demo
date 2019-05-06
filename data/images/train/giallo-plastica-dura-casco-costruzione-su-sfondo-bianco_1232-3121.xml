@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>giallo-plastica-dura-casco-costruzione-su-sfondo-bianco_1232-3121.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\giallo-plastica-dura-casco-costruzione-su-sfondo-bianco_1232-3121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>443</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>27</ymin>
+			<xmax>556</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

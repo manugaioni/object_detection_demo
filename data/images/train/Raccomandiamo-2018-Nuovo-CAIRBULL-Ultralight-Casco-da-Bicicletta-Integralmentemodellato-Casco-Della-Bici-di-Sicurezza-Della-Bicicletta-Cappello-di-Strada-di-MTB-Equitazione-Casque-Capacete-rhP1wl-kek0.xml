@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Raccomandiamo-2018-Nuovo-CAIRBULL-Ultralight-Casco-da-Bicicletta-Integralmentemodellato-Casco-Della-Bici-di-Sicurezza-Della-Bicicletta-Cappello-di-Strada-di-MTB-Equitazione-Casque-Capacete-rhP1wl-kek0.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\Raccomandiamo-2018-Nuovo-CAIRBULL-Ultralight-Casco-da-Bicicletta-Integralmentemodellato-Casco-Della-Bici-di-Sicurezza-Della-Bicicletta-Cappello-di-Strada-di-MTB-Equitazione-Casque-Capacete-rhP1wl-kek0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>13</ymin>
+			<xmax>168</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

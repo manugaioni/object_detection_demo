@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>delta-plus-granite-wind-delgrawiorfl-casco-di-sicurezza-arancione-216142551-0-150-3B.jpg</filename>
+	<path>C:\Users\Matteo\Desktop\images\delta-plus-granite-wind-delgrawiorfl-casco-di-sicurezza-arancione-216142551-0-150-3B.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elmetto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>2</ymin>
+			<xmax>134</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>
