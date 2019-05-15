@@ -1,7 +1,7 @@
 <annotation>
   <folder>train</folder>
-  <filename>1</filename>
-  <path>C:\Users\Matteo\Desktop\resized\train\1.jpg</path>
+  <filename>500_F_196203530_X9iT7MLZCdR72srKV8lC6bfeneSTZpLw</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\500_F_196203530_X9iT7MLZCdR72srKV8lC6bfeneSTZpLw.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -12,15 +12,15 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>cinghiale</name>
+    <name>cane da caccia</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>308</xmin>
-      <ymin>188</ymin>
-      <xmax>665</xmax>
-      <ymax>406</ymax>
+      <xmin>237</xmin>
+      <ymin>181</ymin>
+      <xmax>564</xmax>
+      <ymax>294</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
   <folder>train</folder>
-  <filename>1</filename>
-  <path>C:\Users\Matteo\Desktop\resized\train\1.jpg</path>
+  <filename>800px_COLOURBOX2832755</filename>
+  <path>C:\Users\Matteo\Desktop\resized\train\800px_COLOURBOX2832755.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>308</xmin>
-      <ymin>188</ymin>
-      <xmax>665</xmax>
-      <ymax>406</ymax>
+      <xmin>181</xmin>
+      <ymin>333</ymin>
+      <xmax>451</xmax>
+      <ymax>537</ymax>
     </bndbox>
   </object>
 </annotation>
